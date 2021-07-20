@@ -4,7 +4,7 @@ I had done the project listing page for swag of India and I had listed the produ
 
 please check my webpage here : https://vigneshmanimaran.github.io/Json.github.io/
 
-Here I attched the mock up of the webpage
+Here I attched the screenshots of the webpage
 
 ![2021-07-20 01_05_14-SWAG OF INDIA](https://user-images.githubusercontent.com/76697341/126244607-79819c05-238e-4e1f-b125-a6b32ca74be3.png)
 ![2021-07-20 01_05_39-SWAG OF INDIA](https://user-images.githubusercontent.com/76697341/126244608-af356157-b476-488b-b641-3315bd48ab7f.png)
